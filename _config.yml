@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.tylerkontra.com" # the base hostname & protocol for your site
 portfolio: "http://tylerkontra.com"
 
-#twitter_username: 
+#twitter_username:
 github_username: tylerkontra
 
 # Build settings
@@ -32,5 +32,5 @@ gems: [jekyll-paginate]
 # Custom vars
 version:             0.1.0
 
-
-
+# Disqus post comments
+disqus_shortname: blog-tylerkontra

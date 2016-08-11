@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: The Future of Income
 ---
 ## Odd Era, Low Expectations
@@ -34,28 +35,3 @@ A basic income has not seen widespread institutional implementation anywhere in 
 So clearly it's difficult.
 ## Where To Go From Here?
 There's nowhere to go, really. It's a fascinating concept, with fascinating possibilities but it just doesn't seem feasible right now. I, for one, am in favor of it, even with its logistical impossibilities. The impact it could have on economics is largely unknown, and reasoning through its consequences is exhilarating yet tiresome, there are so many variables and so much at stake. But, at a time that seems so do-or-die, so very visceral. we can't help but think that any well-intentioned change should be considered to best extent we can muster.
-
-
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-
-/**
- *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
- *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
-/*
-var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = '//blog-tylerkontra.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-{% endif %}
