@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Babyboomers, Gen X, Gen Y: Out of touch, out of their minds.
+title: "Babyboomers, Gen X, Gen Y: Out of touch, out of their minds."
 ---
 ## Misinterpreting Their Future
 I had the distinct pleasure of reading an article from the Harvard Business Review on the growing presence of millennials in the workforce and their impact on hiring practices and people management. It's titled [Research: Millennials Can't Afford To Job Hop.](https://hbr.org/2016/08/research-millennials-cant-afford-to-job-hop)
